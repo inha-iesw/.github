@@ -2,13 +2,13 @@
 
 
 
-인하대학교 지능형 임베디드 소프트웨어 연구실 레포지토리입니다.
+The repository belongs to the Intelligent Embedded Software Laboratory at Inha University.
 
 ## 🏛️ Name
 **IESW** (Intelligent Embedded Software)
 
 ## 📍 Address
-인천광역시 미추홀구 인하로 100, 인하대학교 하이테크센터 1301호
+Room 1301, High-Tech Center, Inha University, 100 Inha-ro, Michuhol-gu, Incheon, South Korea
 
 ## 🌐 Web
 [IESW Google Site](https://sites.google.com/view/iesw)
@@ -16,4 +16,4 @@
 ---
 
 
-인하대학교 지능형 임베디드 소프트웨어 연구실에서 다양한 연구 활동을 진행하고 있습니다. 자세한 사항은 위 링크에서 확인하세요.
+The Intelligent Embedded Software Laboratory at Inha University conducts various research activities. For more details, please check the link above.
